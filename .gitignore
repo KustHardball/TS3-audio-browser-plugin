@@ -1,0 +1,6 @@
+tools/
+build/
+third_party/
+*.obj
+*.exp
+*.lib
